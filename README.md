@@ -1,1 +1,1 @@
-# computer-science-resource-inventory
+# Computer Science Resource Inventory

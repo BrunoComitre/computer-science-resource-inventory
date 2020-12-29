@@ -1,2 +1,5 @@
-*.agdai
-MAlonzo/**
+### VSCODE ###
+
+.vscode
+.vscode/*
+.DS_Store
