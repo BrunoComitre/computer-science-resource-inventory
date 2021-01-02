@@ -84,6 +84,9 @@ It is always nice to add a short column for role models nearby that inspire you:
 - [Hilary Parker](https://hilaryparker.com/)
 - [Kenny Bastani](http://www.kennybastani.com/)
 - [Shane Lynn](https://www.shanelynn.ie/)
+- [MIT](http://web.mit.edu/)
+- [Cientistas da computação](https://www.google.com.br/search?q=cientistas+da+computa%C3%A7%C3%A3o&es_sm=93&source=lnms&sa=X&ved=0CAYQ_AUoAGoVChMI2brQwLPvyAIVwoyQCh0ufg7H&biw=1366&bih=643&dpr=1)
+- [Martin Fowler](https://martinfowler.com/)
 
 [GO TO INDEX](#index)
 
@@ -114,6 +117,7 @@ Below is a list of sites that offer a variety of free and paid courses:
 - [Universia](http://noticias.universia.com.br/destaque/especial/2013/07/10/1035282/8/700-cursos-online-gratis-das-melhores-universidades-do-mundo/cursos-online-gratis-de-ci%C3%AAncia-da-computa%C3%A7%C3%A3o-e-intelig%C3%AAncia-artificial.html) - Universia Brazil brought together 700 free online courses from the best universities in Brazil and the world. Check out courses in Computer Science and Artificial Intelligence.
 - [Duolingo](https://www.duolingo.com/) - Learn languages for free, forever.
 - [e-stude](http://e-stude.com/site/) - E-learning platform aimed at training software development teams.
+- [Geeks For Geeks](https://www.geeksforgeeks.org/)
 
 [GO TO INDEX](#index)
 
@@ -144,6 +148,7 @@ Courses related to computing:
 - [Introduction to Computer Science with Python Part 1 (USP): PT-BR](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)
 - [Introduction to Computer Science and Programming Using Python (MIT): EN-US](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
 - [Using Python for Research (Harvard): EN-US](https://www.edx.org/course/using-python-research-harvardx-ph526x)
+- [Computer science courses on edX](https://www.edx.org/course/subject/computer-science)
 
 [GO TO INDEX](#index)
 
@@ -172,7 +177,6 @@ Below is a list of YouTube Channels, Videos I liked and Playlist to study and ke
 - Channel [Numberphile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) - Videos about numbers - it's that simple.
 - Channel [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) - Videos all about computers and computer stuff. Sister channel of Numberphile.
 - Channel [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - Is some combination of math and entertainment, depending on your disposition.
-
 - Playlist [Canal USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4tvUFZ8tXQDoAkFAASQzOHm) - USP classes | Artificial Intelligence in health: the use of Machine Learning.
 
 [GO TO INDEX](#index)
@@ -272,8 +276,9 @@ Scielo is a digital library of FAPESP, CNPq, Pan American Health Organization, V
 
 Computer Science study projects:
 
-- [TEXT](LINK)
-- [TEXT](LINK)
+- [Open Source Society University Computer Science](https://github.com/ossu/computer-science)
+- [Awesome list of awesome things](https://github.com/topics/awesome-list)
+- [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python)
 
 [GO TO INDEX](#index)
 
@@ -283,8 +288,13 @@ Computer Science study projects:
 
 Links from different sites:
 
-- [TEXT](LINK)
-- [TEXT](LINK)
+- [With Science](http://www.comciencia.br/)
+- [SETI Institute](https://www.seti.org/)
+- [National Examination for Admission to Graduate Studies in Computing (POSCOMP)](http://www.sbc.org.br/index.php?option=com_content&view=article&layout=edit&id=458)
+- [Genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+- [Integrated Systems Laboratory (LSI)](https://sites.usp.br/lsi/)
+- [Development with official Intel hardware and software](https://software.intel.com/content/www/br/pt/develop/home.html)
+- [GuiaFoca GNU/Linux](https://www.guiafoca.org/#sobre-o-focalinux) - Foca GNU / Linux is a guide that goes from basic explanations about computers and the GNU / Linux system to the administration and security of the system.
 
 [GO TO INDEX](#index)
 
