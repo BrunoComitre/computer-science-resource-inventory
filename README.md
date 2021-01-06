@@ -85,8 +85,9 @@ It is always nice to add a short column for role models nearby that inspire you:
 - [Kenny Bastani](http://www.kennybastani.com/)
 - [Shane Lynn](https://www.shanelynn.ie/)
 - [MIT](http://web.mit.edu/)
-- [Cientistas da computação](https://www.google.com.br/search?q=cientistas+da+computa%C3%A7%C3%A3o&es_sm=93&source=lnms&sa=X&ved=0CAYQ_AUoAGoVChMI2brQwLPvyAIVwoyQCh0ufg7H&biw=1366&bih=643&dpr=1)
+- [Computer scientists](https://www.google.com.br/search?q=cientistas+da+computa%C3%A7%C3%A3o&es_sm=93&source=lnms&sa=X&ved=0CAYQ_AUoAGoVChMI2brQwLPvyAIVwoyQCh0ufg7H&biw=1366&bih=643&dpr=1)
 - [Martin Fowler](https://martinfowler.com/)
+- [Edsger Dijkstra](https://pt.wikipedia.org/wiki/Edsger_Dijkstra)
 
 [GO TO INDEX](#index)
 
