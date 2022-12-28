@@ -321,7 +321,7 @@ Below are lists with more content that increase the capacity of this list to x10
 Space to add Computer Science notes:
 
 ```
-ADD NOTES HERE
+ADD NOTES HERE 
 ```
 
 [GO TO INDEX](#index)
