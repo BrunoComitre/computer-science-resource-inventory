@@ -239,7 +239,6 @@ Download Related Links.
 Computing Tutorials:
 
 - [TEXT](LINK)
-- [TEXT](LINK)
 
 [GO TO INDEX](#index)
 
