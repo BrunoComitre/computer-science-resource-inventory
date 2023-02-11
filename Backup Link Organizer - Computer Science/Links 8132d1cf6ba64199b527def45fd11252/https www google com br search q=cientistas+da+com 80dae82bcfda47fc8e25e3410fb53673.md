@@ -1,0 +1,1 @@
+# https://www.google.com.br/search?q=cientistas+da+computação&es_sm=93&source=lnms&sa=X&ved=0CAYQ_AUoAGoVChMI2brQwLPvyAIVwoyQCh0ufg7H&biw=1366&bih=643&dpr=1
